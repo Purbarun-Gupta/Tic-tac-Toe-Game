@@ -23,5 +23,15 @@ HTML5	Structure of the game board and layout
 CSS3	Styling, animations, and responsive design
 JavaScript (ES6)	Game logic, AI behavior, and interactivity
 
-Check my Website
+🧩 AI Logic Overview
+
+The AI is designed to make smart and strategic moves, using logic that checks for:
+
+Winning moves – AI looks for immediate opportunities to win.
+
+Blocking moves – AI prevents the player from winning when possible.
+
+Random fallback – When no critical move exists, AI picks an optimal random position.
+
+Play the game here!
 https://purbarun-gupta.github.io/Tic-tac-Toe-Game/
